@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siewe-nel" alt="siewe-nel" /></a> </p>
 
-- 🔭 I’m currently working on **Ngoa mapp**
+- 🔭 I’m currently working on **NERALA**
 
 - 🌱 I’m currently learning **java and aws**
 
