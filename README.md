@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **ngatchnel1@gmail.com**
 
+-  📫 my portfolio **https://siewenel.vercel.app/**
+
 - ⚡ Fun fact **i love tech , animes and basketball**
 
 <h3 align="left">Connect with me:</h3>
